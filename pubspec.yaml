@@ -3,8 +3,8 @@ description: >
   Complete localization for Uzbek (Latin & Cyrillic), Kazakh, Tajik,
   and Kyrgyz. Date, time, number, currency formatting with Hijri calendar.
 version: 0.1.0
-homepage: https://github.com/yourusername/central_asian_locale
-repository: https://github.com/yourusername/central_asian_locale
+homepage: https://github.com/ibroximfd/central_asian_locale
+repository: https://github.com/ibroximfd/central_asian_locale
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
